@@ -1,0 +1,84 @@
+[
+  {
+    "restaurant_name": "The Golden Wok",
+    "date": "2026-03-15",
+    "items": [
+      {
+        "name": "Spring Rolls (2pc)",
+        "price": 5.99
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "price": 14.99
+      },
+      {
+        "name": "Fried Rice",
+        "price": 3.99
+      },
+      {
+        "name": "Green Tea",
+        "price": 2.5
+      }
+    ],
+    "subtotal": 27.47,
+    "tax": 2.27,
+    "total": 29.74,
+    "tip": null
+  },
+  {
+    "restaurant_name": "Bella Italia Trattoria",
+    "date": "2026-04-02",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "price": 16.5
+      },
+      {
+        "name": "Caesar Salad",
+        "price": 9.75
+      },
+      {
+        "name": "Tiramisu",
+        "price": 7.5
+      },
+      {
+        "name": "Espresso",
+        "price": 3.25
+      },
+      {
+        "name": "Sparkling Water",
+        "price": 2.0
+      }
+    ],
+    "subtotal": 39.0,
+    "tax": 3.41,
+    "total": 50.41,
+    "tip": 8.0
+  },
+  {
+    "restaurant_name": "Blue Plate Diner",
+    "date": "2026-05-20",
+    "items": [
+      {
+        "name": "Classic Cheeseburger",
+        "price": 12.99
+      },
+      {
+        "name": "French Fries",
+        "price": 4.5
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "price": 5.75
+      },
+      {
+        "name": "Apple Pie Slice",
+        "price": 6.25
+      }
+    ],
+    "subtotal": 29.49,
+    "tax": 2.21,
+    "total": 31.7,
+    "tip": null
+  }
+]

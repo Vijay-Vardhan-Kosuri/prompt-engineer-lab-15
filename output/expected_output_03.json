@@ -1,0 +1,31 @@
+{
+  "restaurant_name": "Blue Plate Diner",
+  "date": "2026-05-20",
+  "items": [
+    {
+      "name": "Classic Cheeseburger",
+      "price": 12.99
+    },
+    {
+      "name": "French Fries",
+      "price": 4.50
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "price": 5.75
+    },
+    {
+      "name": "Apple Pie Slice",
+      "price": 6.25
+    }
+  ],
+  "subtotal": 29.49,
+  "tax": 2.21,
+  "tip": null,
+  "total": 31.70,
+  "validation": {
+    "is_consistent": true,
+    "calculated_total": 31.70,
+    "message": "Subtotal + tax matches printed total within tolerance."
+  }
+}
